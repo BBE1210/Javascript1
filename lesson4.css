@@ -1,0 +1,45 @@
+body {
+    background-color: green;
+}
+h1 { color: black; text-align: center;}
+h2 {color: yellow;}
+p {color: yellow; font-size: 28px; font-weight: bold;}
+#getrandom {color: white; font-family: Georgia, 'Times New Roman', Times, serif;
+font-weight: bold; font-size: 20px;}
+input[type=number]
+{
+width: 10%;
+margin: 8px 0;
+box-sizing: border-box;
+border: 3px solid yellow;
+padding: 4px 5px;
+background-color: brown;
+color: white;
+}
+input[type=submit]
+{
+margin: 4px 2px;
+border: none;
+padding: 4px 5px;
+border: 3px solid yellow;
+background-color: brown;
+color: white;
+text-decoration: none;
+}
+.inputcls
+{font-family: Georgia, 'Times New Roman', Times, serif;
+font-weight: bold; font-size: 20px;
+}
+.button
+{
+    margin: 4px 2px;
+    border: none;
+    padding: 4px 5px;
+    border: 3px solid rgb(47, 0, 255);
+    background-color: brown;
+    color: white;
+    display: inline-block;
+    text-decoration: none;  
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold; font-size: 20px
+}
